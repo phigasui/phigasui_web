@@ -1,0 +1,42 @@
+.stitched{
+
+    text-align: center;
+    padding: 5px 10px 5px 10px;
+    border: 2px dashed rgba(255, 255, 255, 0.5);
+
+    /* -moz-border-radius: 5px */
+    /* -webkit-border-radius: 5px */
+    border-radius: 5px;
+}
+
+li{
+    list-style: none;
+    float: left;
+}
+
+h1{
+    width: 250px;
+    background: #CCC;
+    -moz-box-shadow: 0 0 0 4px #CCC, 2px 1px 4px 4px rgba(10, 10, 0, 5);
+    -webkit-box-shadow: 0 0 0 4px #CCC, 2px 1px 4px 4px rgba(10, 10, 0, 5);
+    box-shadow: 0 0 0 4px #CCC, 2px 1px 6px 4px rgba(10, 10, 0, 5);
+    margin: 30px;
+}
+
+.twitter{
+    margin: 20px;
+    background: #FDD;
+    width: 200px;
+    /* -moz-box-shadow: 0 0 0 4px #FDD, 2px 1px 4px 4px rgba(10, 10, 0, 5); */
+    /* -webkit-box-shadow: 0 0 0 4px #FDD, 2px 1px 4px 4px rgba(10, 10, 0, 5); */
+    box-shadow: 0 0 0 4px #FDD, 2px 1px 6px 4px rgba(250, 200, 200, 5);
+}
+
+.soundcloud{
+    margin: 20px;
+    background: #DFD;
+    width: 200px;
+    -moz-box-shadow: 0 0 0 4px #DFD, 2px 1px 4px 4px rgba(10, 10, 0, 5);
+    -webkit-box-shadow: 0 0 0 4px #DFD, 2px 1px 4px 4px rgba(10, 10, 0, 5);
+    box-shadow: 0 0 0 4px #DFD, 2px 1px 6px 4px rgba(200, 250, 200, 5);
+}
